@@ -1,0 +1,5 @@
+# ignore et tüm .log uzantılı dosyalar
+*.log
+
+# ignore et temp adlı dizindeki herşeyi
+temp/
